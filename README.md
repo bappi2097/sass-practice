@@ -17,6 +17,7 @@
 ## If You want to use it as your own portfolio 💻
 
 - Download `.zip` file then unzip it
-- Then enter `portfolio > dist` then edit index and css file or you can edit Scss from sass folder and host it.
+- Then enter `portfolio > dist` then edit index and css file or you can edit `scss` from sass folder and deploy it.
+- If you need help contact me :email: <a href="mailto:bappi35-2097@diu.edu.bd">bappi35-2097@diu.edu.bd</a>
 
 ## If you like it please give a ⭐
